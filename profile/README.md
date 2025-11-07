@@ -1,68 +1,69 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtsadmin/ChatGPT-Desktop-Linux-VTS/main/assets/chatgpt-vts-logo.png" width="100" alt="Vishwanath Tec Systems (VTS) Logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwanathtec/.github/main/VTS_Logo_Kit/vts-dark-bg.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwanathtec/.github/main/VTS_Logo_Kit/vts-logo.png">
+    <img src="https://raw.githubusercontent.com/vishwanathtec/.github/main/VTS_Logo_Kit/vts-logo.png" width="100" alt="Vishwanath Tec Systems (VTS) Logo">
+  </picture>
 </p>
 
 <h1 align="center">Vishwanath Tec Systems (VTS)</h1>
 
 <p align="center">
-  Building open source Linux and web software with a focus on <b>privacy</b>, <b>simplicity</b>, and <b>performance</b>.
+  Building open source Linux and web software focused on privacy, simplicity, and performance.
 </p>
 
 ---
 
 ### 🌐 About
 
-**Vishwanath Tec Systems (VTS)** is a registered technology firm based in Lucknow, India.  
-We create privacy-focused software, developer tools, and open web utilities designed to make technology clear, reliable, and accessible.  
-From desktop applications to browser-based platforms, every project follows one core principle:
+**Vishwanath Tec Systems (VTS)** develops privacy-first software and developer tools that make technology cleaner, faster, and more transparent.  
+From Linux desktop utilities to modern web platforms, every project is guided by a single belief:
 
-> *Software should empower the user, not exploit them.*
-
-As the parent organization behind **[SHRTX](https://shrtx.in)** and **[AV Techguides](https://avtechguides.com)**, VTS combines innovation with reliability to build practical digital ecosystems for everyday use.
+> 💡 *Software should serve the user, not the system.*
 
 ---
 
 ### 🧠 Featured Projects
 
-#### 🐧 [ChatGPT Desktop Linux (VTS Edition)](https://github.com/vishwanathtec/ChatGPT-Desktop-Linux-VTS)
-A lightweight and privacy-friendly ChatGPT launcher for Linux that runs through your existing browser.  
-No API keys, no Electron, and no telemetry.
+#### 🐧 [ChatGPT Desktop (VTS Edition)](https://github.com/vishwanathtec/ChatGPT-Desktop-Linux-VTS)
+A lightweight, privacy-friendly ChatGPT launcher for Linux that runs directly through your existing browser.  
+No API keys. No Electron. No telemetry.
 
 #### ⚙️ [SHRTX](https://shrtx.in)
-A growing collection of fast, privacy-first web utilities that simplify everyday digital workflows.  
-All tools run locally in the browser with no accounts and no data collection.
-
-#### 📘 [AV Techguides](https://avtechguides.com)
-Educational articles and tutorials that help students, creators, and professionals understand modern technology with clarity.
+A collection of fast, privacy-focused web tools designed to simplify online work.  
+Everything runs locally in your browser — no logins, no tracking, no data collection.
 
 ---
 
 ### 🧰 Tech Focus
-- Linux administration and automation  
+- Linux Administration and Automation  
 - Astro, Node.js, React, and TypeScript  
-- Web privacy and security design  
-- WordPress and CMS development  
-- Open source documentation and tooling  
+- Web Privacy and Security Design  
+- WordPress Development  
+- Open Source Documentation and Tooling  
 
 ---
 
 ### 👤 Founder
+
 **[Vishwanath (Vishu) Tiwari](https://shrtx.in/vishu)**  
-Systems Administrator · Indie Developer · Educator  
-Lucknow, India  
+Systems Administrator · Indie Developer · Blogger  
+📍 Based in India  
 
 ---
 
 ### 💬 Connect
+
 <p align="center">
-  <a href="https://vts.shrtx.in"><img src="https://img.shields.io/badge/Website-vts.shrtx.in-blue?style=for-the-badge"></a>
+  <a href="https://shrtx.in"><img src="https://img.shields.io/badge/Website-shrtx.in-blue?style=for-the-badge"></a>
   <a href="https://github.com/vtsadmin"><img src="https://img.shields.io/badge/GitHub-vtsadmin-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:info@vts.shrtx.in"><img src="https://img.shields.io/badge/Email-info@vts.shrtx.in-red?style=for-the-badge"></a>
-  <a href="https://x.com/vtecsystems"><img src="https://img.shields.io/badge/X-@vtecsystems-1DA1F2?style=for-the-badge&logo=x"></a>
+  <a href="mailto:contact@shrtx.in"><img src="https://img.shields.io/badge/Email-contact@shrtx.in-red?style=for-the-badge"></a>
+  <a href="https://x.com/avtechguides"><img src="https://img.shields.io/badge/X-@avtechguides-1DA1F2?style=for-the-badge&logo=x"></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Maintained by Vishwanath Tec Systems (VTS)</b> — powered by curiosity, Linux, and open source.
+  <b>Maintained by <a href="https://vts.shrtx.in">Vishwanath Tec Systems (VTS)</a></b><br>
+  <sub>Powered by curiosity, Linux, and open source 🐧</sub>
 </p>
