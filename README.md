@@ -68,7 +68,7 @@ Systems Administrator · Indie Developer · Blogger
   <a href="mailto:info@vts.shrtx.in"><img src="https://img.shields.io/badge/Email-info@vts.shrtx.in-red?style=for-the-badge"></a>
   <a href="https://x.com/vishwanathtec"><img src="https://img.shields.io/badge/X-@vishwanathtec-1DA1F2?style=for-the-badge&logo=x"></a>
   <a href="https://facebook.com/vishwanathtec"><img src="https://img.shields.io/badge/Facebook-vishwanathtec-1877F2?style=for-the-badge&logo=facebook"></a>
-  <a href="https://www.linkedin.com/company/vishwanathtec/)"><img src="https://img.shields.io/badge/Linkedin-vishwanathtec-1877F2?style=for-the-badge&logo=LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/vishwanathtec"><img src="https://img.shields.io/badge/Linkedin-vishwanathtec-1877F2?style=for-the-badge&logo=LinkedIn"></a>
 </p>
 
 ---
