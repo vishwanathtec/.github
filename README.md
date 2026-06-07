@@ -38,9 +38,6 @@ No API keys. No Electron. No telemetry.
 A collection of fast, privacy-first web tools designed to simplify online work.  
 Everything runs locally in your browser — no logins, no tracking, no data collection.
 
-#### 📘 [AV Techguides](https://avtechguides.com)
-An educational initiative by VTS focused on tutorials, system administration, and technology learning resources.
-
 ---
 
 ### 🧰 Tech Focus
